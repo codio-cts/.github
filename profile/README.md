@@ -1,6 +1,6 @@
 # Codio
 
-👋 | Heya, Codio is a [combat test snapshot 8c](https://minecraft.fandom.com/wiki/Java_Edition_Combat_Test_8c) server, which specializes in entertaining you with minigames!
+👋 | Heya, Codio is a [combat test snapshot 8c](https://minecraft.wiki/w/Java_Edition_Combat_Test_8c) server, which specializes in entertaining you with minigames!
 
 ## Info
 
